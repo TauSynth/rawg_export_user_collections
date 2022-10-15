@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "rawg-export-user-collections"
+version = "0.1.0"
+description = "Export public user's collections from the rawg.io video game database."
+authors = ["TauSynth <the.dark.neutronium.tau.synth@gmail.com>"]
+license = "MIT License"
+readme = "README.md"
+packages = [{include = "rawg_export_user_collections"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
