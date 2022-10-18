@@ -20,7 +20,7 @@ pip install rawg_export_user_collections
 
 1. Get user slug from user profile page in [rawg.io](https://rawg.io/):
 
-   ![User profile page](./docs/User%20profile%20page.png)
+   ![User profile page](https://github.com/TauSynth/rawg_export_user_collections/blob/main/docs/User%20profile%20page.png?raw=true)
 
 2. Run command:
 
